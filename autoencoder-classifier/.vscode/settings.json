@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/constantinos/Documents/projects/machine-learning-playground/autoencoder-classifier/.venv/bin/python3",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
